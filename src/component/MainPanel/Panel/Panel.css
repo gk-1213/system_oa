@@ -1,0 +1,10 @@
+.panel {
+    background-color: rgb(241, 242, 243);
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    display: inline-block;
+    width: 65%;
+    height: 100%;
+}

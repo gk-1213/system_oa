@@ -1,0 +1,48 @@
+.PersonMessage_header_button1 {
+    font-size: 16px;
+    padding: 6px 8px 6px 8px;
+    margin: 0 4px 4px 0;
+    border-radius: 5px;
+    position: relative;
+    top: 0.25rem;
+}
+.PersonMessage_header_button2 {
+    font-size: 16px;
+    padding: 6px 8px 6px 8px;
+    margin: 0 4px 4px 0;
+    border-radius: 5px;
+    position: relative;
+    top: 0.01rem;
+}
+
+
+.PersonMessage_header_icon {
+    font-size: larger;
+    color: #fff;
+}
+
+.PersonMessage_header_name {
+    font-weight: 520;
+    font-size: 14px;
+}
+
+.PersonMessage_header_team {
+    color: #9e9e9e;
+    font-size: 12px;
+}
+.PersonMessage_header_div0{
+    padding-top: 12px;
+    height: 100%;
+}
+.PersonMessage_header_div01{
+    height: 100%;
+    padding: 5px 0px 5px 0px;
+}
+.PersonMessage_header_div1{
+    float: left;
+}
+.PersonMessage_header_div2{
+    font-size: 0;
+    float: left;
+    margin-left: 8px;
+}

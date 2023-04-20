@@ -1,0 +1,144 @@
+body {
+    background: #eeeeee;
+    margin: 0;
+    padding: 0;
+}
+
+.particles-bg-canvas-self {
+    background: #fff;
+}
+
+.page-con {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    margin-top: -221px;
+    left: 50%;
+    margin-left: -228px;
+    box-sizing: border-box;
+    background: #f4f6fa;
+    box-shadow: 0 0 16px 0 rgb(22 81 163 / 13%);
+}
+
+#logo-text {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 35px;
+    vertical-align: 7px;
+    font-family: arial;
+    height: 70px;
+    text-shadow: 1px 1px 2px #bbb inset;
+    font-weight: 600;
+}
+
+.page-con .logo-box {
+    position: absolute;
+    top: -102px;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 0);
+}
+
+#logo-text label {
+    display: inline-block;
+    background: #4386f5;
+    border-radius: 50%;
+    color: #fff;
+    padding: 5px 8px;
+    margin-left: 6px;
+    font-size: 40px;
+    position: relative;
+    box-shadow: 1px 1px 6px #ccc;
+}
+
+.page-con label {
+    margin-left: 20px;
+    color: #666;
+    display: inline-block;
+    padding: 0 10px;
+    background: #fff;
+    font-size: 13px;
+}
+
+.page-con .login-box {
+    background: #fff;
+    box-sizing: border-box;
+    padding: 40px 48px;
+
+}
+
+.loginway-icon-box {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 52px;
+    height: 52px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#loginway-icons {
+    width: 104px;
+    height: 104px;
+    position: absolute;
+}
+
+.loginway-icon:nth-child(1) {
+    top: 0;
+    left: 0;
+    background: url(./code.png) no-repeat;
+    background-size: 100%;
+}
+
+.loginway-icon {
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    overflow: hidden;
+}
+
+.loginway-icon:nth-child(2) {
+    bottom: 0;
+    right: 0;
+    background-size: 100%;
+    background: url(./code2.png) no-repeat;
+}
+
+.loginway-icon:nth-child(1):after,
+.loginway-icon:nth-child(2):after {
+    content: "";
+    position: absolute;
+    top: 40%;
+    right: 0;
+    width: 200%;
+    height: 100%;
+    transform: rotate(45deg);
+    background: #fff;
+}
+
+.input {
+    border-radius: 20px;
+}
+
+.button {
+    border-radius: 20px;
+}
+
+.page-con .button_left {
+    /* text-align: left; */
+    color: #7f7f7f;
+    float: left;
+}
+
+.page-con .button_right {
+    /* text-align: right; */
+    float: right;
+    color: #4386f5;
+}
+
+.button_all {
+    margin-top: 10px;
+}
+

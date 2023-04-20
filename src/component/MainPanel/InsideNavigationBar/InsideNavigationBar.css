@@ -1,0 +1,12 @@
+.InsideNavigationBar {
+    background-color: rgb(255, 255, 255);
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    display: inline-block;
+    width: 22%;
+    min-width: 22%;
+    max-width: 22%;
+    height: 100%;
+}

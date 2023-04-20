@@ -1,0 +1,96 @@
+body {
+    background: #eeeeee;
+    margin: 0;
+    padding: 0;
+}
+
+.particles-bg-canvas-self {
+    background: #fff;
+}
+
+.page-con {
+    text-align: center;
+    width: 456px;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    margin-top: -221px;
+    left: 50%;
+    margin-left: -228px;
+    box-sizing: border-box;
+    background: #f4f6fa;
+    box-shadow: 0 0 16px 0 rgb(22 81 163 / 13%);
+}
+
+#logo-text {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 35px;
+    vertical-align: 7px;
+    font-family: arial;
+    height: 70px;
+    text-shadow: 1px 1px 2px #bbb inset;
+    font-weight: 600;
+}
+
+.page-con .logo-box {
+    position: absolute;
+    top: -102px;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 0);
+}
+
+#logo-text label {
+    display: inline-block;
+    background: #4386f5;
+    border-radius: 50%;
+    color: #fff;
+    padding: 5px 8px;
+    margin-left: 6px;
+    font-size: 40px;
+    position: relative;
+    box-shadow: 1px 1px 6px #ccc;
+}
+
+.page-con label {
+    margin-left: 20px;
+    color: #666;
+    display: inline-block;
+    padding: 0 10px;
+    background: #fff;
+    font-size: 13px;
+}
+
+.page-con .login-box {
+    background: #fff;
+    box-sizing: border-box;
+    padding: 40px 48px;
+
+}
+
+.input {
+    border-radius: 20px;
+    font-size: small;
+}
+
+.button {
+    border-radius: 20px;
+}
+
+.page-con .button_left {
+    /* text-align: left; */
+    color: #7f7f7f;
+    float: left;
+}
+
+.page-con .button_right {
+    /* text-align: right; */
+    float: right;
+    color: #4386f5;
+}
+
+.button_all {
+    margin-top: 10px;
+}
+

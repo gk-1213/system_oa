@@ -1,0 +1,25 @@
+.react-pdf__Page__annotations.annotationLayer {
+    width: 0px !important;
+    height: 0px !important;
+}
+
+.flieContent {
+    width: 100%;
+}
+
+.filePdf {
+    display: flex;
+    justify-content: center;
+}
+
+.filePdfFooter {
+    height: 42px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filePdfPage {
+    margin: 0 10px;
+}

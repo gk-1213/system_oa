@@ -1,0 +1,60 @@
+.messageItem_padd {
+    padding: 15px 0px 15px 3px;
+    margin: 0px 5px 0px 5px;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.messageItem_icon {
+    font-size: larger;
+    color: #fff;
+}
+
+.meaasgeItem_name {
+    font-weight: 530;
+    font-size: 14.5px;
+}
+.meaasgeItem_time{
+    color: #9e9e9e;
+}
+
+.meaasgeItem_lastMessage {
+    color: #9e9e9e;
+    font-size: 13px;
+}
+
+.messageItem_button {
+    font-size: 20px;
+    padding: 7px 10px 7px 10px;
+    margin: 0 4px 4px 0;
+    border-radius: 10px;
+    position: relative;
+    top: 0.2rem;
+}
+
+.div0 {
+    float: left;
+    margin-top: 8px;
+    width: 5%;
+}
+
+.div0_span {
+    font-size: 15px;
+    color: #9e9e9e;
+    margin-right: 2px;
+}
+
+.div1 {
+    float: left;
+    height: 100%;
+    width: 20%;
+}
+
+.div2 {
+    margin-left: 10px;
+    float: left;
+    height: 100%;
+    width: 65%;
+}

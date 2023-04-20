@@ -1,0 +1,61 @@
+.outside {
+    background-color: rgb(241, 242, 243);
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    display: inline-block;
+    width: 13%;
+    height: 100%;
+}
+
+.out_padd {
+    margin: 7px 5px 7px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.out_hover {
+    background-color: rgb(241, 242, 243);
+}
+
+.out_hover :hover {
+    background-color: rgb(222, 223, 224);
+}
+
+.out_button {
+    background-color: rgb(175, 183, 195);
+    font-size: 20px;
+    padding: 0px 4px 1px 4px;
+    border-color: rgb(175, 183, 195);
+    margin: 0 4px 4px 0;
+    border-radius: 5px;
+    position: relative;
+    top: 0.15rem;
+}
+
+.out_icon {
+    color: #fff;
+    font-size: 18px;
+}
+
+.out_span {
+    margin-left: 5px;
+    color: rgb(133, 138, 146);
+    font-size: 13px;
+}
+
+.out_icon1 {
+    color: rgb(133, 138, 146);
+    margin-left: 4px;
+    font-size: 10px;
+}
+
+.line_padd {
+    padding: 10px 10px 0px 10px;
+}
+
+.ant-divider-horizontal {
+    margin: 0;
+}
+
+

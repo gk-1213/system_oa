@@ -1,0 +1,45 @@
+.create{
+    padding: 7px 7px 7px 7px;
+    margin-top: 10px;
+    border: 1px solid  rgba(175, 177, 180, 0.349);
+    border-radius: 5px;
+    text-align: center;
+}
+.out_button1 {
+    background-color: rgb(175, 183, 195);
+    font-size: 20px;
+    padding: 5px 8px 5px 8px;
+    border-color: rgb(175, 183, 195);
+    margin: 5px 8px 8px 0;
+    border-radius: 5px;
+    position: relative;
+    top: 0.15rem;
+}
+.out_icon2 {
+    color: #fff;
+    font-size: 25px;
+}
+.out_span1 {
+    margin-left: 5px;
+    color: black;
+    font-size: 14px;
+}
+
+.floor {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.floor_span {
+    top: 0.15rem;
+}
+
+.floor_icon {
+    margin-left: auto;
+}
+.team_padd{
+    padding: 15px 15px 15px 15px;
+    border: 2px solid  #40a0ffb4;
+    border-radius: 5px;
+    margin-top: 20px;
+}

@@ -1,0 +1,130 @@
+.poi {
+	cursor: pointer;
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+
+.poid {
+	cursor: pointer;
+	width: 6%;
+	float: left;
+	text-align: center;
+}
+
+.poin {
+	cursor: pointer;
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+.ant-card-body {
+	padding: 10px;
+}
+
+.ant-card-head {
+	padding: 0 10px;
+}
+
+.notify {
+	max-width: 1800px;
+	min-width: 1800px;
+	max-height: 900px;
+	min-height: 900px;
+}
+
+.pg-viewer-wrapper {
+	overflow-y: hidden;
+}
+
+.ant-notification-notice-with-icon .ant-notification-notice-description {
+	overflow: auto;
+	max-height: 800px;
+	max-width: 100%;
+	margin-top: 20px;
+}
+
+.ExcelTable2007 {
+	border: 1px solid #B0CBEF;
+	border-width: 1px 0px 0px 1px;
+	font-size: 11pt;
+	font-family: Calibri;
+	font-weight: 100;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+.ExcelTable2007 TH {
+	background-repeat: repeat-x;
+	font-weight: bold;
+	font-size: 14px;
+	border: 1px solid #9EB6CE;
+	border-width: 0px 1px 1px 0px;
+	height: 17px;
+	line-height: 17px;
+}
+
+.ExcelTable2007 TD {
+	border: 0px;
+	background-color: white;
+	padding: 0px 4px 0px 2px;
+	border: 1px solid #D0D7E5;
+	border-width: 0px 1px 1px 0px;
+}
+
+.ExcelTable2007 TD B {
+	border: 0px;
+	background-color: white;
+	font-weight: bold;
+}
+
+.ExcelTable2007 TD.heading {
+	background-color: #E4ECF7;
+	text-align: center;
+	border: 1px solid #9EB6CE;
+	border-width: 0px 1px 1px 0px;
+	font-weight: bold;
+}
+
+.ExcelTable2007 TH.heading {
+	background-repeat: none;
+}
+
+TH {
+	text-align: center;
+}
+
+.jumbotron-background {
+	border-radius: 0rem !important;
+	color: white
+}
+
+.jumbotron-button {
+	color: #fff !important;
+	background-color: transparent !important;
+	border-color: lightgrey !important;
+}
+
+.jumbotron-button:hover {
+	color: #fff !important;
+	background-color: #5a6268 !important;
+	border-color: #545b62 !important;
+}
+
+.restrict-card {
+	height: 175px;
+	overflow-y: overlay;
+}
+
+.handsontable {
+	overflow: visible !important;
+}
+
+.ht_master .wtHolder {
+	overflow: visible;
+}
+
+
+  

@@ -1,0 +1,43 @@
+.dialogue_all{
+    max-height: 100%;
+    height:100%;
+    width: 100%;
+    overflow-y:scroll;
+    white-space: pre-wrap;
+}
+.dialogue_icon1 {
+    font-size: 20px;
+    padding: 7px 10px 7px 10px;
+    margin: 0 4px 4px 0;
+    border-radius: 10px;
+    position: relative;
+    top: 0.3rem;
+}
+.dialogue_icon2 {
+    font-size: 20px;
+    padding: 0px 10px 7px 10px;
+    margin: 0 4px 4px 0;
+    border-radius: 10px;
+    position: relative;
+    top: -0.1rem;
+}
+.dialogue_div1{
+    display: inline-block;
+    max-width: 20%;
+}
+.dialogue_div2{
+    display: inline-block;
+    background-color: rgb(201, 231, 255);
+    max-width: 80%;
+    vertical-align: top;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.dialogue_div3{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    max-width: 80%;
+    vertical-align: top;
+    border-radius: 5px;
+    margin-left: 10px;
+}

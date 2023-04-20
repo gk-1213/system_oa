@@ -1,0 +1,23 @@
+.item_padd {
+    margin:7px 10px 7px 10px;
+    padding: 5px 5px 5px 5px;
+    background-color: #F1F2F3;
+    cursor:default;
+    border:1px solid #F1F2F3;
+}
+
+.item_icon {
+    font-size: 18px;
+}
+
+.item_span {
+    color: #303133;
+    font-weight: 520;
+    margin-left: 15px;
+    font-size: 14px;
+}
+.fonticon{
+    position: relative; 
+    top:0.09rem; 
+    margin-left: 3px;
+  }

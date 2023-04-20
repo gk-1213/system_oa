@@ -1,0 +1,32 @@
+.BottomIcon_all {
+    float: left;
+    margin-left: 10px;
+}
+
+.BottomIcon_all1 {
+    float: right;
+    margin-right: 10px;
+}
+
+.BottomIcon_icon {
+    padding: 8px 8px 5px 8px;
+    border-radius: 5px;
+}
+
+.BottomIcon_icon1 {
+    padding: 8px 8px 5px 8px;
+    border-radius: 5px;
+    background-color: #D8DBDD;
+}
+
+.ant-tooltip-inner {
+    font-size: 12px;
+}
+
+/* .emoji-mart-search {
+    display: none !important;
+}
+
+.emoji-mart-preview {
+    display: none !important;
+} */
